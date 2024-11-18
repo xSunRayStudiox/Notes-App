@@ -24,6 +24,15 @@ A simple Notes App built with Kotlin, using the Room Database for local storage,
 - **Copy Password/ID**: Users can copy passwords and their associated IDs to the clipboard.
 - **Search Passwords**: Search functionality to find saved passwords based on IDs or other details.
 
+# Notes Screen
+<kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/1.jpg" width="300"></kbd>    <kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/2.jpg" width="300"></kbd>    <kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/3.jpg" width="300"></kbd>
+
+# Url Screen
+<kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/4.jpg" width="300"></kbd>  <kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/5.jpg" width="300"></kbd>
+
+# Password Screen
+<kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/6.jpg" width="300"></kbd>  <kbd><img src="https://github.com/xSunRayStudiox/Notes-App/blob/master/Screensort/7.jpg" width="300"></kbd>
+
 ## Tech Stack
 
 - **JAVA**
