@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-mdpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-mdpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_outline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_outline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_item_note_layout.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\item_note_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\font_google_sans_medium.ttf.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\font\\google_sans_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_item_link_layout.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\item_link_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_id_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_id_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_icon_copy.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\icon_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-xxxhdpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-xxxhdpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-hdpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-hdpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-xxhdpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-xxhdpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_round_search_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_round_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_error_image.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\error_image.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_fragment_password_list.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\fragment_password_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_fragment_notes_list.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\fragment_notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\font_google_sans_regular.ttf.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\font\\google_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_icon_pencil.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\icon_pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_item_password_layout.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\item_password_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_fragment_url_list.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\fragment_url_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_icon_check.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\icon_check.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\font_google_sans_bold.ttf.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\font\\google_sans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_placeholder_image.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\placeholder_image.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-ldpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-ldpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-anydpi-v24_ic_no_data.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-anydpi-v24\\ic_no_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_add_link_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_add_link_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_activity_write_notes.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\activity_write_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_round_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_round_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_lock_person.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_lock_person.xml"
+    },
+    {
+        "merged": "com.sun_ray.srnotes.app-merged_res-47:/layout_activity_write_notes.xml.flat",
+        "source": "com.sun_ray.srnotes.app-main-49:/layout/activity_write_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_ic_note_24.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\ic_note_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable-xhdpi_ic_no_data.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-pngs-43:\\drawable-xhdpi\\ic_no_data.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_icon_colour.png.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\icon_colour.png"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-merged_res-47:\\drawable_rounded_search.xml.flat",
+        "source": "C:\\Users\\surya\\.gradle\\daemon\\8.0\\com.sun_ray.srnotes.app-main-49:\\drawable\\rounded_search.xml"
+    }
+]

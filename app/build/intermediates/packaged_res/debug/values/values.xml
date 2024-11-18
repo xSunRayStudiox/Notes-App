@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="color_picker">
+        <item>@color/white</item>
+        <item>@color/card_purple</item>
+        <item>@color/card_yellow</item>
+        <item>@color/card_red</item>
+        <item>@color/card_violet</item>
+        <item>@color/card_blue</item>
+        <item>@color/card_green</item>
+        <item>@color/peach</item>
+        <item>@color/green</item>
+        <item>@color/purple</item>
+        <item>@color/darkPurple</item>
+        <item>@color/blue</item>
+        <item>@color/orangeRed</item>
+        <item>@color/yellowOrange</item>
+        <item>@color/MangoTango</item>
+        <item>@color/maizeCrayola</item>
+    </array>
+    <array name="dark_color">
+        <item>#FF8F8F8F</item>
+        <item>#55618A</item>
+        <item>#AE911D</item>
+        <item>#A5261F</item>
+        <item>#C8801B</item>
+        <item>#308EB8</item>
+        <item>#168F35</item>
+        <item>#A38462</item>
+        <item>#6A8354</item>
+        <item>#857991</item>
+        <item>#5A5295</item>
+        <item>#617E8A</item>
+        <item>#A34D1E</item>
+        <item>#A56415</item>
+        <item>#A35731</item>
+        <item>#977830</item>
+    </array>
+    <color name="MangoTango">#F9844A</color>
+    <color name="black">#000000</color>
+    <color name="blue">#A8DAF0</color>
+    <color name="card_blue">#5AC8FA</color>
+    <color name="card_green">#34C759</color>
+    <color name="card_purple">#8690B1</color>
+    <color name="card_red">#FF3B30</color>
+    <color name="card_violet">#FF9500</color>
+    <color name="card_yellow">#FFCC00</color>
+    <color name="darkPurple">#9387F5</color>
+    <color name="green">#C3F09C</color>
+    <color name="ic_launcher_background">#0066FF</color>
+    <color name="maizeCrayola">#F9C74F</color>
+    <color name="orangeRed">#F3722C</color>
+    <color name="peach">#F0C390</color>
+    <color name="purple">#D4C4E3</color>
+    <color name="purple_200">#03A9F4</color>
+    <color name="purple_500">#0026FA</color>
+    <color name="purple_700">#021687</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellowOrange">#F8961E</color>
+    <string name="about">About</string>
+    <string name="add_note">Add Note</string>
+    <string name="app_name">Notes</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="clear">clear</string>
+    <string name="description">Description</string>
+    <string name="edited_on">Edited on</string>
+    <string name="heading">Heading</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="link">Link</string>
+    <string name="links">Links</string>
+    <string name="my_notes">Notes</string>
+    <string name="no_data">no_data</string>
+    <string name="note">Notes</string>
+    <string name="password">Password</string>
+    <string name="search_here">Search...</string>
+    <string name="some_text">Lorem Ipsum is simply dummy text of
+        the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled
+        it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged.
+    </string>
+    <string name="title">Title</string>
+    <string name="type_note_here">Type note here....</string>
+    <string name="url_demo">https:www.url.com/</string>
+    <style name="Theme.SRNotes" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundColor">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" ns1:ignore="NewApi">true</item>
+        
+    </style>
+</resources>

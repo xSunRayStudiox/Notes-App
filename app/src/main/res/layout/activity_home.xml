@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity_Home">
+
+    <FrameLayout
+        android:id="@+id/Main_Fragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <me.ibrahimsn.lib.SmoothBottomBar
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:fitsSystemWindows="true"
+        app:backgroundColor="#DDDDDD"
+        app:cornerRadius="0dp"
+        app:iconSize="30dp"
+        app:iconTint="@color/black"
+        app:iconTintActive="@color/purple_500"
+        app:indicatorColor="@color/white"
+        app:indicatorRadius="10dp"
+        app:menu="@menu/bottom_nav"
+        app:textColor="@color/black" />
+
+</LinearLayout>

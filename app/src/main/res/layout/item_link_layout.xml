@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:contentPadding="10dp"
+    android:layout_marginStart="7dp"
+    android:layout_marginEnd="7dp"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="3dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp"
+            android:paddingStart="7dp"
+            android:paddingEnd="7dp">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="7dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/google_sans_medium"
+                android:hint="@string/heading"
+                android:textSize="18sp"
+                android:singleLine="true"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:fontFamily="@font/google_sans_regular"
+                android:gravity="right|center"
+                android:paddingEnd="7dp"
+                android:text="23/04/2002"
+                android:textColor="#8E8B8B"
+                android:textSize="12sp"
+                tools:ignore="RtlHardcoded" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/url"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:drawablePadding="10dp"
+            android:gravity="center_vertical"
+            android:hint="@string/some_text"
+            android:layout_marginEnd="7dp"
+            android:singleLine="true"
+            android:textSize="12sp"
+            app:drawableStartCompat="@drawable/ic_add_link_24" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
+
+
+

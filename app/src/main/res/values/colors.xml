@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#03A9F4</color>
+    <color name="purple_500">#0026FA</color>
+    <color name="purple_700">#021687</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="black">#000000</color>
+
+    <color name="purple">#D4C4E3</color>
+    <color name="darkPurple">#9387F5</color>
+    <color name="blue">#A8DAF0</color>
+    <color name="peach">#F0C390</color>
+    <color name="green">#C3F09C</color>
+    <color name="orangeRed">#F3722C</color>
+    <color name="yellowOrange">#F8961E</color>
+    <color name="MangoTango">#F9844A</color>
+    <color name="maizeCrayola">#F9C74F</color>
+    <color name="card_purple">#8690B1</color>
+    <color name="card_yellow">#FFCC00</color>
+    <color name="card_red">#FF3B30</color>
+    <color name="card_violet">#FF9500</color>
+    <color name="card_blue">#5AC8FA</color>
+    <color name="card_green">#34C759</color>
+
+
+    <array name="color_picker">
+        <item>@color/white</item>
+        <item>@color/card_purple</item>
+        <item>@color/card_yellow</item>
+        <item>@color/card_red</item>
+        <item>@color/card_violet</item>
+        <item>@color/card_blue</item>
+        <item>@color/card_green</item>
+        <item>@color/peach</item>
+        <item>@color/green</item>
+        <item>@color/purple</item>
+        <item>@color/darkPurple</item>
+        <item>@color/blue</item>
+        <item>@color/orangeRed</item>
+        <item>@color/yellowOrange</item>
+        <item>@color/MangoTango</item>
+        <item>@color/maizeCrayola</item>
+    </array>
+
+    <array name="dark_color">
+        <item>#FF8F8F8F</item>
+        <item>#55618A</item>
+        <item>#AE911D</item>
+        <item>#A5261F</item>
+        <item>#C8801B</item>
+        <item>#308EB8</item>
+        <item>#168F35</item>
+        <item>#A38462</item>
+        <item>#6A8354</item>
+        <item>#857991</item>
+        <item>#5A5295</item>
+        <item>#617E8A</item>
+        <item>#A34D1E</item>
+        <item>#A56415</item>
+        <item>#A35731</item>
+        <item>#977830</item>
+    </array>
+
+</resources>
